@@ -1,5 +1,5 @@
 # agodzoYTRenderer is a python package that allows you to render Youtube videos in your Jupyter Notebook.
-# ExampleC Code:
+# Example Code:
 
 
 ```
