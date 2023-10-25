@@ -9,7 +9,7 @@ This is python package built to render Youtube tutorial videos and reference sit
 
 !!! note "installation steps"
     First let's do an easy pip installation of the library by running the following command -
-    ```
+    ```bash
     pip install agodzoYTRenderer
     ```
 
